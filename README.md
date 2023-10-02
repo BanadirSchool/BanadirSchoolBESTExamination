@@ -19,7 +19,7 @@
             transform: translate(-50%,-50%);
             border-collapse: collapse;
             width: 700px;
-            height: 400px;
+            height: 200px;
        
            
             
