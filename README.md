@@ -113,13 +113,13 @@
 </tr>
 <td> PHARMACOLOGY</td>
 <td> 96</td>
-<td> C</td>
+<td> A+</td>
 <td> CAAFIMAAD</td>
 <tr>
 
 </tr>
 <td> NUTRITION</td>
 <td> 100</td>
-<td> C</td>
+<td> A+</td>
 <td> CAAFIMAAD</td>
 <tr>
